@@ -12,8 +12,6 @@ There are six mods on RNN in this section, which are VecMap RNN, Basic RNN, GRU 
 Stage 4: Seq2Seq Transformer
 Optimized RNN models for machine translation tasks based on the Transformer architecture.
 
-Final Code Link on Colab: https://colab.research.google.com/drive/1gpuCeUzVaFe7uMeeBPaxy_EG9vPwgqyk#scrollTo=ZaOP4neitekO
-
 Additional files that need to be imported into colab:
 TRAIN.DICT: This file is used to generate -semisupervised bilingual mapping files. This file is not needed if unsupervised is used.
 TEST.DICT: This file is used to evaluate your mapped embeddings in bilingual lexicon extraction.
